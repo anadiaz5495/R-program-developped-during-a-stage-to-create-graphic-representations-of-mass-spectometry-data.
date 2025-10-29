@@ -1,0 +1,2 @@
+# R-program-developped-during-a-stage-to-create-graphic-representations-of-mass-spectometry-data.
+This program creates graphic representations of mass spectrometry data, which include statistic tests to conclude over the significance of differences interpreted visually. It provides graphics with the statistic comparisons of isotopologue fraction in a tissu in relation to different administration methods of the tracer.
